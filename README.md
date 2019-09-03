@@ -1,0 +1,2 @@
+# miscJavascript
+Useful JavaScript functons
